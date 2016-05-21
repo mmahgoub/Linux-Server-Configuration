@@ -26,3 +26,4 @@ Installation of a Linux distribution on a virtual machine and prepare it to host
 ## Resources
 - [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 - [SQLAlchemy - DBAPI Support](http://docs.sqlalchemy.org/en/latest/dialects/postgresql.html#module-sqlalchemy.dialects.postgresql.psycopg2)
+- [Ubuntu PostgreSQL Community Page](https://help.ubuntu.com/community/PostgreSQL)
